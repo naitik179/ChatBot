@@ -7,8 +7,8 @@
 
 
 
-Database used - Firebase Cloud Firestore.
+Database used - Firebase Cloud Realtime.
 <br>
-Link to which is https://console.firebase.google.com/u/1/project/newagent-iscmov/database/firestore/data~2Faadhar_card~2F1
+
 
 

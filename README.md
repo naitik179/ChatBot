@@ -2,13 +2,14 @@
 
 
 
-<h1>Unsecured Personal Loan on a Chatbot</h1>
+<h1>Unsecured Personal Loan on a Chatbot deployed on facebook.</h1>
 
-
-
-
-Database used - Firebase Cloud Realtime.
+Dialogflow using inline Editor 
 <br>
+<hr>
+Database used - Firebase Cloud Realtime.
+
+
 
 
 
